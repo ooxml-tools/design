@@ -22,6 +22,7 @@ Repo containing design assets for the [`@ooxml-tools`](https://github.com/ooxml-
 | <img alt="@ooxml-tools/validate" height="32" src="images/validate-dark.png#gh-dark-mode-only" />  <img alt="@ooxml-tools/validate" height="32" src="images/validate-light.png#gh-light-mode-only" />  | [`@ooxml-tools/validate`](https://github.com/ooxml-tools/validate)  |
 | <img alt="@ooxml-tools/vscode" height="32" src="images/vscode-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/vscode" height="32" src="images/vscode-light.png#gh-light-mode-only" />      | [`@ooxml-tools/vscode`](https://github.com/ooxml-tools/vscode)      |
 | <img alt="@ooxml-tools/vscode" height="32" src="images/design-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/vscode" height="32" src="images/design-light.png#gh-light-mode-only" />      | [`@ooxml-tools/design`](https://github.com/ooxml-tools/design)      |
+| <img alt="@ooxml-tools/readme" height="32" src="images/readme-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/vscode" height="32" src="images/readme-light.png#gh-light-mode-only" />      | [`@ooxml-tools/.github`](https://github.com/ooxml-tools/.github)    |
 
 
 ## Stickers
