@@ -1,4 +1,3 @@
-# @ooxml-tools/design
 # <img alt="@ooxml-tools/design" height="56" src="./images/design.png" />
 
 Repo containing design assets for the `@ooxml-tools` org
