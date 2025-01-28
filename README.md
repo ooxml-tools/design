@@ -1,8 +1,12 @@
 # @ooxml-tools/design
-# <img alt="@ooxml-tools/design" height="56" src="./images/logo.png" />
+# <img alt="@ooxml-tools/design" height="56" src="./images/design.png" />
+
+Repo containing design assets for the `@ooxml-tools` org
+
+## Main logo
+<img alt="@ooxml-tools/design" height="32" src="./images/logo.png" />
 
 ## Repo logos
-<img alt="@ooxml-tools/design" height="56" src="./images/logo.png" />
 <img alt="@ooxml-tools/cli" height="32" src="images/cli.png" />
 <img alt="@ooxml-tools/file" height="32" src="images/file.png" />
 <img alt="@ooxml-tools/jsx" height="32" src="images/jsx.png" />
