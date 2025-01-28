@@ -1,4 +1,4 @@
-# <img alt="@ooxml-tools/design" height="56" src="./images/design.png" />
+# <img alt="@ooxml-tools/design" height="56" src="images/design-dark.png#gh-dark-mode-only" /><img alt="@ooxml-tools/design" height="56" src="images/design-light.png#gh-light-mode-only" />
 
 Repo containing design assets for the `@ooxml-tools` org
 
@@ -20,6 +20,7 @@ Repo containing design assets for the `@ooxml-tools` org
 | <img alt="@ooxml-tools/units" height="32" src="images/units-dark.png#gh-dark-mode-only" />        <img alt="@ooxml-tools/units" height="32" src="images/units-light.png#gh-light-mode-only" />        |  [`@ooxml-tools/units`](https://github.com/ooxml-tools/units)        |
 | <img alt="@ooxml-tools/validate" height="32" src="images/validate-dark.png#gh-dark-mode-only" />  <img alt="@ooxml-tools/validate" height="32" src="images/validate-light.png#gh-light-mode-only" />  |  [`@ooxml-tools/validate`](https://github.com/ooxml-tools/validate)  |
 | <img alt="@ooxml-tools/vscode" height="32" src="images/vscode-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/vscode" height="32" src="images/vscode-light.png#gh-light-mode-only" />      |  [`@ooxml-tools/vscode`](https://github.com/ooxml-tools/vscode)      |
+| <img alt="@ooxml-tools/vscode" height="32" src="images/design-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/vscode" height="32" src="images/design-light.png#gh-light-mode-only" />      |  [`@ooxml-tools/design`](https://github.com/ooxml-tools/design)      |
 
 
 ## Stickers
