@@ -4,9 +4,9 @@ Repo containing design assets for the `@ooxml-tools` org
 
 ## Main logo
 
-| Dark                                                                     | Light                                                                    | Org                                                    |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------ |
-| <img alt="@ooxml-tools" height="32" src="images/ooxmltools-dark.png" />  | <img alt="@ooxml-tools" height="32" src="images/ooxmltools-dark.png" />  |  [`@ooxml-tools`](https://github.com/ooxml-tools)      | 
+| Dark                                                                     | Light                                                                     | Org                                                    |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------ |
+| <img alt="@ooxml-tools" height="32" src="images/ooxmltools-dark.png" />  | <img alt="@ooxml-tools" height="32" src="images/ooxmltools-light.png" />  |  [`@ooxml-tools`](https://github.com/ooxml-tools)      | 
 
 ## Repo logos
 | Dark                                                                            | Light                                                                            | Repo                                                                 |
