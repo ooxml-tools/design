@@ -24,7 +24,12 @@ Repo containing design assets for the [`@ooxml-tools`](https://github.com/ooxml-
 
 
 ## Stickers
-Todo...
+
+| Image                                                                 |
+| --------------------------------------------------------------------- |
+| <img alt="@ooxml-tools/cli" height="32" src="images/fanby.png" />     |
+| <img alt="@ooxml-tools/file" height="32" src="images/fangirl.png" />  |
+| <img alt="@ooxml-tools/jsx" height="32" src="images/fanboy.png" />    |
 
 
 ## Fonts & colors
