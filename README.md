@@ -1,6 +1,6 @@
 # <img alt="@ooxml-tools/design" height="56" src="images/design-dark.png#gh-dark-mode-only" /><img alt="@ooxml-tools/design" height="56" src="images/design-light.png#gh-light-mode-only" />
 
-Repo containing design assets for the `@ooxml-tools` org
+Repo containing design assets for the [`@ooxml-tools`](https://github.com/ooxml-tools) organisation
 
 ## Main logo
 
