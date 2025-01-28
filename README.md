@@ -14,3 +14,7 @@ Repo containing design assets for the `@ooxml-tools` org
 <img alt="@ooxml-tools/units" height="32" src="images/units.png" />
 <img alt="@ooxml-tools/validate" height="32" src="images/validate.png" />
 <img alt="@ooxml-tools/vscode" height="32" src="images/vscode.png" />
+
+
+## Stickers
+Todo...
