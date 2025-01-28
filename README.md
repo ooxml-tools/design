@@ -23,3 +23,7 @@ Repo containing design assets for the `@ooxml-tools` org
 
 ## Stickers
 Todo...
+
+
+## Fonts & colors
+The logo uses [Roboto Flex](https://fonts.google.com/specimen/Roboto+Flex) for its typeface and uses [iOS, iPadOS system colors](https://developer.apple.com/design/human-interface-guidelines/color#iOS-iPadOS-system-colors) as a base
