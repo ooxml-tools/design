@@ -39,4 +39,4 @@ The logo uses [Roboto Flex](https://fonts.google.com/specimen/Roboto+Flex) for i
 
 
 ## Thanks
-Thanks to [@HelenHarlow](https://github.com/HelenHarlow) for the design review/advice! It went from ![this](https://github.com/ooxml-tools/design/blob/7556e7b268e0e36d3aebac4bee3c2bc815eb07a0/images/render.png) to what you see above, with some lovely advice 🎉
+Thanks to [@HelenHarlow](https://github.com/HelenHarlow) for the design review/advice! It went from [this](https://github.com/ooxml-tools/design/blob/7556e7b268e0e36d3aebac4bee3c2bc815eb07a0/images/render.png) to what you see above, with some lovely advice 🎉
