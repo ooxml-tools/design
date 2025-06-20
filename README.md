@@ -26,6 +26,7 @@ Repo containing design assets for the [`@ooxml-tools`](https://github.com/ooxml-
 | <img alt="@ooxml-tools/readme" height="32" src="images/readme-dark.png#gh-dark-mode-only" />                          <img alt="@ooxml-tools/readme" height="32" src="images/readme-light.png#gh-light-mode-only" />                          | [`@ooxml-tools/.github`](https://github.com/ooxml-tools/.github/tree/main/profile)                |
 | <img alt="@ooxml-tools/xml" height="32" src="images/xml-dark.png#gh-dark-mode-only" />                                <img alt="@ooxml-tools/xml" height="32" src="images/xml-light.png#gh-light-mode-only" />                                | [`@ooxml-tools/xml`](https://github.com/ooxml-tools/xml/tree/main)                                |
 | <img alt="@ooxml-tools/spreadsheetml" height="32" src="images/spreadsheetml-dark.png#gh-dark-mode-only" />            <img alt="@ooxml-tools/spreadsheetml" height="32" src="images/spreadsheetml-light.png#gh-light-mode-only" />            | [`@ooxml-tools/spreadsheetml`](https://github.com/ooxml-tools/spreadsheetml/tree/main)            |
+| <img alt="@ooxml-tools/wordprocessingml" height="32" src="images/wordprocessingml-dark.png#gh-dark-mode-only" />      <img alt="@ooxml-tools/wordprocessingml" height="32" src="images/wordprocessingml-light.png#gh-light-mode-only" />      | [`@ooxml-tools/wordprocessingml`](https://github.com/ooxml-tools/wordprocessingml/tree/main)      |
 
 
 ## Stickers
